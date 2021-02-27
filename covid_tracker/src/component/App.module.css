@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(249,249,249);
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+h1{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:green;
+}
+.img{
+    width:350px;
+    margin-top:15px;
+}
+
+@media(max-width:770px){
+    .container{
+        margin:0 10%;
+    }
+    h1{
+        width: 100%;
+    }
+}
