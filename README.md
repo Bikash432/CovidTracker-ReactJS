@@ -18,8 +18,6 @@ Check out the live version: [COVID-19 Tracker](https://your-live-demo-link.com)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Reference](#api-reference)
-- [Screenshots](#screenshots)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -97,24 +95,6 @@ Make sure to check out the [COVID-19 API Documentation](https://covid19api.com/)
 
 ---
 
-## 📸 Screenshots
-
-### Home Page - Global Statistics
-![Home Page - Global Statistics](link-to-screenshot)
-
-### Country-Specific Data
-![Country Data](link-to-screenshot)
-
-### Dark Mode
-![Dark Mode](link-to-screenshot)
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 📬 Contact
 
